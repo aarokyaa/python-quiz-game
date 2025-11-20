@@ -45,4 +45,4 @@ This project is for educational purpose. Feel free to fork, modify, and extend.
 ---
 
 ## Contact
-[Your Name or Email]
+Name : AAROKYA KUMAR , MAIL : aarokyakumar12@gmail.com
